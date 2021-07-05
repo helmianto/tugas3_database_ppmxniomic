@@ -1,0 +1,7 @@
+1. XAMPP = X (tempat sistem operasi apapun), Apache, MySQL, PHP dan Perl
+2. Cara akses XAMPP panel => START->All Programs->XAMPP->XAMPP Control Panel
+3. Hidupkan module Apache dan MySQL
+4. Ketikkan di url browser 'localhost/phpmyadmin'
+5. Menjalankan MySQL Client di cmd,
+- Pastikan MySQL server sudah berjalan
+- Buka CMD dan ketikka "c:\xampp\mysql\bin\mysql -u root"
